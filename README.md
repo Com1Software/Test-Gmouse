@@ -11,5 +11,7 @@ Raspberry Pi GSM/GPRS/GNSS Bluetooth HAT Expansion Board GPS Module SIM868 Compa
 
 [SIM868 GNSS Application Note](https://www.waveshare.com/w/upload/3/3d/SIM868_GNSS_Application_Note_V1.00.pdf)
 
+[Go Serial](https://pkg.go.dev/github.com/tarm/serial)
+
 [Go Playground for Programmers](https://github.com/Com1Software/Go-Playground-for-Programmers)
 
