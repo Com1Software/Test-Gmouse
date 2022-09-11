@@ -1,4 +1,4 @@
-# Test-Gmouse
+# Test-Windows-GPS
 
 
 [Go Serial](https://pkg.go.dev/github.com/tarm/serial)
